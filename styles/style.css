@@ -1,0 +1,60 @@
+/* *******************************************Element Selector ********************************* */
+
+body {
+  text-align: center;
+  background-color: #f4e9fe;
+}
+
+h1 {
+  font-size: 52px;
+  font-family: sans-serif;
+  color: #774ad7;
+}
+
+img {
+  width: 300px;
+}
+
+p {
+  margin: 0;
+}
+main {
+  background-color: #774ad7;
+  width: 700px;
+  margin: 50px auto 50px auto;
+  color: white;
+  padding: 50px 20px;
+  text-align: left;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  list-style-position: outside;
+  padding-left: 0;
+}
+
+li {
+  margin: 10px 0px;
+  padding-left: 20px;
+}
+
+a {
+  border-radius: 4px;
+  text-decoration: none;
+  padding: 5px;
+  background-color: yellow;
+}
+
+footer > a {
+  background-color: #ffc627;
+  color: black;
+  padding: 10px;
+}
+/* *******************************************Class Selector ********************************* */
+
+.higlight {
+  border-left: 5px solid yellow;
+}
+/* *******************************************Id Selector ********************************* */
